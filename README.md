@@ -1,9 +1,9 @@
 👋 Hi! I’m @afraelizondo
 
 👀 I’m interested in:
-- discover new things✨
--  meeting people😊
-- travel around the world🌍
+- Discover new things✨
+- Meet people😊
+- Travel around the world🌍
 
 📊 I’m currently learning Data Analytics and Visualization
 
