@@ -1,9 +1,12 @@
 👋 Hi! I’m @afraelizondo
+
 👀 I’m interested in:
 - discover new things✨
 -  meeting people😊
 - travel around the world🌍
+
 📊 I’m currently learning Data Analytics and Visualization
+
 📫 How to reach me via e-mail: elizondo.afra@gmail.com
 
 <!---
