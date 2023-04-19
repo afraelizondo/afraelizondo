@@ -5,7 +5,7 @@
 - Meet people😊
 - Travel around the world🌍
 
-📊 I’m currently learning Data Analytics and Visualization
+📊 Data Analytics and Visualization
 
 📫 How to reach me via e-mail: elizondo.afra@gmail.com
 
