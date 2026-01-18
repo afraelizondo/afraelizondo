@@ -1,11 +1,4 @@
-👋 Hi! I’m @afraelizondo
-
-👀 I’m interested in:
-- Discover new things✨
-- Meet people😊
-- Travel around the world🌍
-
-📊 Data Analytics and Visualization
+👋 Hi! I’m @afraelizondo and I'm a Data Analyst. 📊
 
 📫 How to reach me via e-mail: elizondo.afra@gmail.com
 
